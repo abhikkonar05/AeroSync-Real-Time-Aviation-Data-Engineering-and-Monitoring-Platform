@@ -1,0 +1,2 @@
+# AeroSync-Real-Time-Aviation-Data-Engineering-and-Monitoring-Platform
+AeroSync is a scalable data engineering platform designed to process, transform, and analyze real-time aviation data including flight operations and weather conditions.  The system simulates a production-grade data pipeline using modern ETL architecture, PostgreSQL data warehousing, and analytical processing for aviation performance monitoring.
